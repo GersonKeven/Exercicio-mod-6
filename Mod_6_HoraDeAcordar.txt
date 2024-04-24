@@ -1,0 +1,35 @@
+Hora de acordar:
+
+Abrir o olho
+Olhar o relógio
+Memorizar as horas
+	Se for de 06h às 06:10h
+	Faça “levantar”
+	Se for antes de 06h 
+	Faça “voltar a Dormir”
+Ao “levantar” ir ao “banheiro”
+	No “banheiro” executar as seguintes tarefas
+		“Escovar os dentes”
+			Pegar escova – pegar pasta de dente – passar a pasta na escova – escovar os dentes.
+		“Lavar o rosto”
+			Abrir torneira – encher as mãos de água – levar as mãos ao rosto com a água – pegar a toalha – secar o rosto.
+		
+Sair do “banheiro” Ir para a “cozinha”
+	Na “cozinha” executar as seguintes tarefas
+		“Pensar no que comer”
+			Acessar “memórias” e procurar por “receitas”
+Guardar “receita pão com ovo”
+		“Pegar os ingredientes”
+			Em “Receita pão com ovo” guardar “ingredientes”
+	Abrir “armário” e pegar “pão”
+	Abrir “geladeira e pegar “ovo”
+		“Preparar Café”
+			Fritar “ovo” em uma “frigideira”
+			Abrir o “pão” com uma “faca”
+			Colocar “ovo” dentro do “pão”
+		“Se alimentar”
+			Colocar “pão com ovo” no “prato”
+			Comer “pão com ovo”
+
+Sair da “Cozinha” e executar “Começar o dia”
+
